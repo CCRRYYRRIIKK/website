@@ -13,7 +13,7 @@ body {
     max-width: 640px;
     margin: 30px auto;
     background-color: #ffffff;
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 10px 30px #00000030;
     overflow: hidden;
 }
 
